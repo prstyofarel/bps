@@ -11,7 +11,7 @@ st.set_page_config(
 
 # --- JUDUL UTAMA DASHBOARD ---
 st.title('📊 Dashboard Analisis Data Data')
-st.write('Aplikasi interaktif untuk analisis cepat data Survei Sosial Ekonomi Nasional (Data).')
+st.write('Aplikasi interaktif untuk analisis cepat data hasil Survei Potensi Desa.')
 
 # --- SIDEBAR UNTUK KONTROL ---
 # Semua widget untuk input dan filter diletakkan di sidebar
